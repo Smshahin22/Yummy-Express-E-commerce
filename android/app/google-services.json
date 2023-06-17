@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544796539694",
+    "project_id": "yummy-express-74700",
+    "storage_bucket": "yummy-express-74700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544796539694:android:03cc37fd0de4d5a27058bf",
+        "android_client_info": {
+          "package_name": "com.happinessit.yummy_express"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544796539694-r4plh7cabetvo0soe4a03gh4c675ar77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASF5mv9jYsJ9QjHRMyJpw4OrhXZUjsmFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544796539694-r4plh7cabetvo0soe4a03gh4c675ar77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
